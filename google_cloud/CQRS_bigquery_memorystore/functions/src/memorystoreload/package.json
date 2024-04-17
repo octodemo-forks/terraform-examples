@@ -2,7 +2,7 @@
   "name": "memorystoreloader",
   "version": "0.0.1",
   "dependencies": {
-    "redis": "^2.8.0",
+    "redis": "^4.6.13",
     "split": "^1.0.1",
     "@google-cloud/storage": "^3.0.2"
   }
